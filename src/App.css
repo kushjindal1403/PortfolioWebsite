@@ -30,6 +30,7 @@ code {
 
 
 .App {
+  gap: 30px;
   height: 710px;
   display: grid;
   grid-template-columns: 1fr 4fr;
@@ -41,7 +42,6 @@ code {
 /* Side section styling */
 .side {
   width: 300px;
- 
   border-radius: 20px;
  
   /* Allows for floating */
